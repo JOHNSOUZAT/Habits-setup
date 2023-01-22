@@ -35,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habtis é um app para ajudar a rastrear os hábitos.
 
+[visite o projeto online](https://johnsouzat.github.io/habits-setup )
 
 
 ## 🔖 Layout
